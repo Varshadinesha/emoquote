@@ -6,15 +6,11 @@ It is a simple yet meaningful project that blends React, creativity, and mood-dr
 
 Features
 
-Emotion buttons (Happy, Sad, Angry, Calm, Love)
-
-Dynamic background images for each emotion
-
-Random quote display with author
-
-Smooth transitions and simple user interface
-
-Built entirely with React (no backend needed)
+-Emotion buttons (Happy, Sad, Angry, Calm, Love)
+-Dynamic background images for each emotion
+-Random quote display with author
+-Smooth transitions and simple user interface
+-Built entirely with React (no backend needed)
 
 Tech Stack
 Tool	Purpose
@@ -29,45 +25,27 @@ Clone this repository
 
 git clone https://github.com/Varshadinesha/emoquote.git
 
-
 Navigate to the project folder
 
 cd emotion-quote-generator
 
-
 Install dependencies
-
 npm install
 
-
 Run the app locally
-
 npm start
 
 
 Open in your browser
-
 http://localhost:3000
 
-Preview
-
-When you click on different emotions, the app changes its background and shows a new quote accordingly.
-
-Example: Selecting Calm displays a peaceful quote with a serene background image.
 
 Future Enhancements
 
-Integrate a real quote API (like ZenQuotes or Type.fit)
+-Integrate a real quote API (like ZenQuotes or Type.fit)
+-Add background sound for each emotion
+-Allow users to save favorite quotes
+-Improve mobile responsiveness
 
-Add background sound for each emotion
-
-Allow users to save favorite quotes
-
-Improve mobile responsiveness
-
-Author
-
-Varsha D
-Email: varsha.d@example.com
 
 GitHub: https://github.com/varsha-d
