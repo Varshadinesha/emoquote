@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+}
+
+button:hover {
+  transform: scale(1.05);
+  transition: all 0.2s ease-in-out;
+}
